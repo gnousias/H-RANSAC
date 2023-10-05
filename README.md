@@ -1,3 +1,3 @@
 # H-RANSAC
-A generic implementation of RANSAC (Random Sample Consensus) implementing two logical geometrical tests (one ad-hoc and one post-hoc) on each iteration while calculating the necessary iterations of the algorithm in order to estimate a homography matrix, H.
+An implementation of RANSAC (Random Sample Consensus), H-RANSAC, implementing two logical geometrical tests (one ad-hoc and one post-hoc) on each iteration. The necessary iterations of the algorithm are calculated and homography matrix, H, is estimated.
 Code is provided both in Python and in MATLAB.
