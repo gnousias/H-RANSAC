@@ -17,6 +17,6 @@ with $p_p, p_n$ be the previous and next edges that shapes two consecutive verti
 
 An example of different Q values, is depicted on the below figure.
 
-![Q_figure]()
+<img src="sources/Q_figure.png" width="50%">
 
-## Estimation of iterations
+## Number of estimated iterations
