@@ -19,4 +19,13 @@ An example of different Q values, is depicted on the below figure.
 
 <img src="sources/Q_figure.png" width="50%">
 
-## Number of estimated iterations
+## Estimated iterations
+Let image A and image B be a pair of images that a homography transformation can be applied. Also, let the ordered 4-points $p^A$, $p^B$ be randomly selected from image $A$ and $B$, respectively. The two quadrilaterals that are formed from $p^A$ and $p^B,$ have Q-values equal to $Q_A,Q_B$ respectively. If $Q_A=Q_B$ then the iteration proceeds, otherwise new points are selected.
+ 
+ To gain an insight of the expected reduction in the number of iterations of the proposed $H$-RANSAC, we simulated the generation of quadrilaterals and calculated the number of occurrences of each $Q-$value. After experimentations, the number of RANSAC iterations are expected to be reduced approximately by a factor of 3, using the Q criterion. For thurther details, you can study the published article ...
+
+ ## Results
+ The proposed methodology is compared with variants of RANSAC algorithm (like VSAC, MAGSAC, Graph-Cut or DEGENSAC), utilizing feature extraction techniques like SIFT, ORB or more recent deep learning techniques like SuperPoint and SuperGlue.
+ The dataset that was used to extract and validate our theoritical proposal, contains football images acquired from 12 different cameras (capturing images at the same time) with different camera positions, viewing vector and zoom factor. An example of the resulted image, as well as the images that used are displayed below.
+
+ 
