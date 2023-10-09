@@ -30,7 +30,9 @@ Let image A and image B be a pair of images that a homography transformation can
  The proposed methodology is compared with variants of RANSAC algorithm (like VSAC, MAGSAC, Graph-Cut or DEGENSAC), utilizing feature extraction techniques like SIFT, ORB or more recent deep learning techniques like SuperPoint and SuperGlue.
  The dataset that was used to extract and validate our theoritical proposal, contains football images acquired from 12 different cameras (capturing images at the same time) with different camera positions, viewing vector and zoom factor. An example of the resulted image, as well as the images that used are displayed below.
 
+<p align="center">
 <img src="sources/0_01_07.420000_AEK_VS_OFI-FIRST_HALF-1.4_OFFSIDE_LEFT-.jpg" width="30%"> <img src="sources/0_01_07.420000_AEK_VS_OFI-FIRST_HALF-1.5_OFFSIDE_RIGHT-.jpg" width="30%"> <img src="sources/0_01_07.420000_AEK_VS_OFI-FIRST_HALF-1.6_HIGH_BEHIND_RIGHT-.jpg" width="30%">
+</p>
 
  The reference frame for the specific timestamp is the below
  
