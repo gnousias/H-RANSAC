@@ -16,8 +16,10 @@ $v^i=(p_i-p_p) \times (p_n-p_i)$,
 with $p_p, p_n$ be the previous and next edges that shapes two consecutive vertices with edge $p_i$
 
 An example of different Q values, is depicted on the below figure.
-
+ 
+ <p align="center">
 <img src="sources/Q_figure.png" width="50%">
+</p>
 
 ## Estimated iterations
 Let image A and image B be a pair of images that a homography transformation can be applied. Also, let the ordered 4-points $p^A$, $p^B$ be randomly selected from image $A$ and $B$, respectively. The two quadrilaterals that are formed from $p^A$ and $p^B,$ have Q-values equal to $Q_A,Q_B$ respectively. If $Q_A=Q_B$ then the iteration proceeds, otherwise new points are selected.
@@ -32,8 +34,12 @@ Let image A and image B be a pair of images that a homography transformation can
 
  The reference frame for the specific timestamp is the below
  
+ <p align="center">
  <img src="sources/0_01_07.420000_AEK_VS_OFI-FIRST_HALF-1.2_MASTER-Preferred.jpg" width="45%">
+</p>
 
 And the result, if we combine the reference frame with the transformed images
 
-<img src="sources/blending_01_07_42_123_boxes.png">
+ <p align="center">
+<img align="center" src="sources/blending_01_07_42_123_boxes.png" width="75%">
+</p>
