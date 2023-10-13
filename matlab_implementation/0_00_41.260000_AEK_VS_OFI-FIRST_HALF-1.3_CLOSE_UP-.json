@@ -1,0 +1,234 @@
+{
+    "flags": {},
+    "imageData": null,
+    "imageHeight": 576,
+    "imagePath": "0_00_41.260000_AEK_VS_OFI-FIRST_HALF-1.3_CLOSE_UP-.jpg",
+    "imageWidth": 720,
+    "shapes": [
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "AEK_18_OLIVEIRA_NELSON",
+            "points": [
+                [
+                    370.9998,
+                    114.00019200000001
+                ],
+                [
+                    443.99988,
+                    309.000384
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": true
+            },
+            "group_id": null,
+            "label": "AEK_20_MANTALOS_PETROS",
+            "points": [
+                [
+                    386.99964,
+                    312.99983999999995
+                ],
+                [
+                    486.83783783783787,
+                    547.5135135135135
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": true
+            },
+            "group_id": null,
+            "label": "OFI_18_GIANNOULIS_KOSTAS",
+            "points": [
+                [
+                    166.00017599999998,
+                    31.999679999999998
+                ],
+                [
+                    225.000144,
+                    190.99987199999998
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_29_MELLADO_MIGUEL",
+            "points": [
+                [
+                    621.000144,
+                    199.99958400000003
+                ],
+                [
+                    682.1081081081081,
+                    384.6756756756757
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_34_KOROVESIS_NIKOS",
+            "points": [
+                [
+                    256.99993200000006,
+                    1.0002240000000029
+                ],
+                [
+                    325.999908,
+                    119.00016
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_19_TSILIANIDIS_KOSMAS",
+            "points": [
+                [
+                    260.00028,
+                    280.000224
+                ],
+                [
+                    333.00036,
+                    469.000224
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_5_KOUTROUBIS_GIORGOS",
+            "points": [
+                [
+                    148.99967999999998,
+                    162.0
+                ],
+                [
+                    256.99968,
+                    362.99980800000003
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "AEK_10_LIVAJA_MARKO",
+            "points": [
+                [
+                    376.7027027027027,
+                    273.18918918918916
+                ],
+                [
+                    496.97297297297297,
+                    486.0270270270271
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "2.Big rect. left main",
+            "points": [
+                [
+                    5.081081081081082,
+                    288.72972972972974
+                ],
+                [
+                    115.21621621621622,
+                    236.7027027027027
+                ],
+                [
+                    256.43243243243245,
+                    169.8108108108108
+                ],
+                [
+                    388.86486486486484,
+                    108.32432432432432
+                ],
+                [
+                    506.43243243243245,
+                    54.270270270270274
+                ],
+                [
+                    618.5945945945946,
+                    1.5675675675675649
+                ]
+            ],
+            "shape_type": "linestrip"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "8.Circle left",
+            "points": [
+                [
+                    69.27027027027027,
+                    259.0
+                ],
+                [
+                    204.40540540540542,
+                    249.54054054054052
+                ],
+                [
+                    390.2162162162162,
+                    220.4864864864865
+                ],
+                [
+                    505.7567567567568,
+                    192.1081081081081
+                ],
+                [
+                    582.1081081081081,
+                    159.0
+                ],
+                [
+                    617.2432432432432,
+                    127.24324324324326
+                ],
+                [
+                    617.918918918919,
+                    98.86486486486487
+                ],
+                [
+                    591.5675675675676,
+                    72.51351351351352
+                ],
+                [
+                    524.6756756756757,
+                    47.513513513513516
+                ]
+            ],
+            "shape_type": "linestrip"
+        }
+    ],
+    "version": "4.5.13"
+}

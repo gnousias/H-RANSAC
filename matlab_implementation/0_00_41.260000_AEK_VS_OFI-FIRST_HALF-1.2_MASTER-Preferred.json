@@ -1,0 +1,574 @@
+{
+    "flags": {},
+    "imageData": null,
+    "imageHeight": 576,
+    "imagePath": "0_00_41.260000_AEK_VS_OFI-FIRST_HALF-1.2_MASTER-Preferred.jpg",
+    "imageWidth": 720,
+    "shapes": [
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_21_VAZ_RICARDO",
+            "points": [
+                [
+                    540.8918918918919,
+                    290.7567567567567
+                ],
+                [
+                    553.0540540540541,
+                    336.02702702702703
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": true
+            },
+            "group_id": null,
+            "label": "AEK_20_MANTALOS_PETROS",
+            "points": [
+                [
+                    269.94594594594594,
+                    321.1621621621622
+                ],
+                [
+                    292.99975200000006,
+                    377.9997696
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "AEK_23_HULT_NIKLAS",
+            "points": [
+                [
+                    529.999848,
+                    383.0000832
+                ],
+                [
+                    561.8378378378378,
+                    443.4594594594595
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "REF_SIDE",
+            "points": [
+                [
+                    413.1891891891892,
+                    152.24324324324326
+                ],
+                [
+                    425.000088,
+                    190.00005119999997
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_32_SOTIRIOU_DIMITRIS",
+            "points": [
+                [
+                    -1.440000000130226e-05,
+                    219.99994560000002
+                ],
+                [
+                    13.0000176,
+                    267.99992640000005
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "AEK_5_SZYMANSKI_DAMIAN",
+            "points": [
+                [
+                    651.972984972973,
+                    269.32455472432434
+                ],
+                [
+                    673.3243243243244,
+                    325.2162162162162
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "AEK_6_KRSTISIC_NENAD",
+            "points": [
+                [
+                    537.6485686486486,
+                    297.7565935567568
+                ],
+                [
+                    557.783783783784,
+                    354.94594594594594
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "AEK_7_VERDE_DANIELE",
+            "points": [
+                [
+                    112.99982399999999,
+                    266.999904
+                ],
+                [
+                    134.999856,
+                    311.999904
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "AEK_10_LIVAJA_MARKO",
+            "points": [
+                [
+                    263.972652972973,
+                    311.2433392432432
+                ],
+                [
+                    298.3243243243243,
+                    358.3243243243243
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "AEK_18_OLIVEIRA_NELSON",
+            "points": [
+                [
+                    261.1621621621622,
+                    272.51351351351354
+                ],
+                [
+                    278.72972972972974,
+                    326.56756756756755
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_18_GIANNOULIS_KOSTAS",
+            "points": [
+                [
+                    207.10810810810813,
+                    251.56756756756755
+                ],
+                [
+                    224.35165935135137,
+                    291.37840717837844
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "REF_MAIN",
+            "points": [
+                [
+                    442.00007999999997,
+                    328.000032
+                ],
+                [
+                    460.00007999999997,
+                    388.00022399999995
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_12_VICTOR_JOAO",
+            "points": [
+                [
+                    447.999696,
+                    259.0003008
+                ],
+                [
+                    461.99966399999994,
+                    308.00027520000003
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_34_KOROVESIS_NIKOS",
+            "points": [
+                [
+                    229.00032000000002,
+                    232.0000128
+                ],
+                [
+                    247.00032000000002,
+                    271.9999872
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_19_TSILIANIDIS_KOSMAS",
+            "points": [
+                [
+                    235.99983600000002,
+                    314.0002944
+                ],
+                [
+                    254.999844,
+                    361.00028159999994
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_47_BROWN_CHRISTOPHER",
+            "points": [
+                [
+                    91.99976400000001,
+                    279.0000576
+                ],
+                [
+                    108.999756,
+                    331.0000704
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_29_MELLADO_MIGUEL",
+            "points": [
+                [
+                    322.00009200000005,
+                    292.0000032
+                ],
+                [
+                    337.000068,
+                    337.9999968
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "OFI_5_KOUTROUBIS_GIORGOS",
+            "points": [
+                [
+                    206.43243243243242,
+                    283.3243243243243
+                ],
+                [
+                    232.99992,
+                    335.00024640000004
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "18.Side line left",
+            "points": [
+                [
+                    9.81081081081081,
+                    245.4864864864865
+                ],
+                [
+                    219.27027027027026,
+                    179.27027027027026
+                ],
+                [
+                    219.27027027027026,
+                    179.27027027027026
+                ]
+            ],
+            "shape_type": "linestrip"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "20.Side line top",
+            "points": [
+                [
+                    224.0,
+                    179.27027027027026
+                ],
+                [
+                    316.56756756756755,
+                    184.0
+                ],
+                [
+                    595.6216216216217,
+                    198.1891891891892
+                ],
+                [
+                    717.918918918919,
+                    202.91891891891893
+                ]
+            ],
+            "shape_type": "linestrip"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "17.Side line bottom",
+            "points": [
+                [
+                    3.0540540540540544,
+                    496.1621621621622
+                ],
+                [
+                    330.7567567567568,
+                    532.6486486486486
+                ],
+                [
+                    620.0,
+                    575.0
+                ]
+            ],
+            "shape_type": "linestrip"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "BALL_EXTRA",
+            "points": [
+                [
+                    559.1351351351351,
+                    166.43243243243242
+                ],
+                [
+                    567.2432432432432,
+                    172.51351351351352
+                ]
+            ],
+            "shape_type": "rectangle"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "8.Circle left",
+            "points": [
+                [
+                    292.9189189189189,
+                    254.94594594594594
+                ],
+                [
+                    310.4864864864865,
+                    263.05405405405406
+                ],
+                [
+                    315.8918918918919,
+                    269.13513513513516
+                ],
+                [
+                    315.2162162162162,
+                    277.2432432432432
+                ],
+                [
+                    299.0,
+                    288.05405405405406
+                ],
+                [
+                    263.86486486486484,
+                    299.5405405405405
+                ],
+                [
+                    221.97297297297297,
+                    304.94594594594594
+                ],
+                [
+                    184.13513513513513,
+                    308.3243243243243
+                ]
+            ],
+            "shape_type": "linestrip"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "1.Big rect. left bottom",
+            "points": [
+                [
+                    1.7027027027027026,
+                    369.81081081081084
+                ],
+                [
+                    46.972972972972975,
+                    373.86486486486484
+                ],
+                [
+                    46.972972972972975,
+                    373.86486486486484
+                ]
+            ],
+            "shape_type": "linestrip"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "2.Big rect. left main",
+            "points": [
+                [
+                    47.64864864864865,
+                    373.1891891891892
+                ],
+                [
+                    362.51351351351354,
+                    221.1621621621622
+                ],
+                [
+                    362.51351351351354,
+                    221.1621621621622
+                ]
+            ],
+            "shape_type": "linestrip"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "3.Big rect. left top",
+            "points": [
+                [
+                    362.51351351351354,
+                    219.81081081081084
+                ],
+                [
+                    138.86486486486487,
+                    204.94594594594594
+                ],
+                [
+                    138.86486486486487,
+                    204.94594594594594
+                ]
+            ],
+            "shape_type": "linestrip"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "23.Small rect. left top",
+            "points": [
+                [
+                    59.13513513513514,
+                    230.6216216216216
+                ],
+                [
+                    134.8108108108108,
+                    237.3783783783784
+                ],
+                [
+                    134.8108108108108,
+                    237.3783783783784
+                ]
+            ],
+            "shape_type": "linestrip"
+        },
+        {
+            "flags": {
+                "visible_number": false
+            },
+            "group_id": null,
+            "label": "22.Small rect. left main",
+            "points": [
+                [
+                    3.0540540540540544,
+                    284.0
+                ],
+                [
+                    132.78378378378378,
+                    238.72972972972974
+                ],
+                [
+                    132.78378378378378,
+                    238.72972972972974
+                ]
+            ],
+            "shape_type": "linestrip"
+        }
+    ],
+    "version": "4.5.13"
+}
