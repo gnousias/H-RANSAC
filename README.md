@@ -47,5 +47,5 @@ And the result, if we combine the reference frame with the transformed images
 </p>
 
 
-If you use the above software or part of it in your work, please cite it using the below details
+If you use the above software or part of it in your work, please cite it using the below
 >Nousias, G., Delibasis, K., & Maglogiannis, I. (2023). H-RANSAC, an algorithmic variant for Homography image transform from featureless point sets: application to video-based football analytics. arXiv [Cs.CV]. Retrieved from http://arxiv.org/abs/2310.04912
