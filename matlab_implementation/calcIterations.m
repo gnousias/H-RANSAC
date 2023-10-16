@@ -7,15 +7,24 @@
 function niter = calcIterations(nA,nB,pr,isDataLabeled)
     if isDataLabeled
         nes=4;
-        Na = nA(1)+nA(2);
-        Nb = nB(1)+nB(2);
-        k=min(Na,Nb);
-        Ck4=nchoosek(k,nes);
-        CNa4=nchoosek(Na,nes);
-        CNb4=nchoosek(Nb,nes);
-        p1=Ck4./CNa4;
-        p2=Ck4./CNb4;
-        p0=p1.*p2.*(1./(nchoosek(k,nes)*0.36))*(1./factorial(nes));
+%         Na = nA(1)+nA(2);
+%         Nb = nB(1)+nB(2);
+%         k=min(Na,Nb);
+%         Ck4=nchoosek(k,nes);
+%         CNa4=nchoosek(Na,nes);
+%         CNb4=nchoosek(Nb,nes);
+%         p1=Ck4./CNa4;
+%         p2=Ck4./CNb4;
+%         p0=p1.*p2.*(1./(nchoosek(k,nes)*0.36))*(1./factorial(nes));
+%         niter=round(log10(1-pr)./log10(1-p0))
+        N1a = nA(1); N2a = nA(2);
+        N1b = nB(1); N2b = nB(2);
+        a=3;
+        k1=min(N1a,N1b);
+        k2=min(N2a,N2b);
+        p1=(nchoosek(k1,a)/nchoosek(N1a,a))*(nchoosek(k2,nes-a)/nchoosek(N2a,nes-a));
+        p2=(nchoosek(k1,a)/nchoosek(N1b,a))*(nchoosek(k2,nes-a)/nchoosek(N2b,nes-a));
+        p0=(1/0.36)*p1*p2*(1/nchoosek(k1,a))*(1/nchoosek(k2,nes-a))*(1/factorial(a))*(1/factorial(nes-a));
         niter=round(log10(1-pr)./log10(1-p0));
     else
         nes=4;   % necessary points (for Homography nes=4)
@@ -25,7 +34,7 @@ function niter = calcIterations(nA,nB,pr,isDataLabeled)
         CNb4=nchoosek(nB,nes);
         p1=Ck4./CNa4;
         p2=Ck4./CNb4;
-        p0=p1.*p2.*(1./(nchoosek(k,nes)))*(1./factorial(nes));
+        p0=p1.*p2.*(1./(nchoosek(k,nes)*0.36))*(1./factorial(nes));
         niter=round(log10(1-pr)./log10(1-p0));
     end
 
