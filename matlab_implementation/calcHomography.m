@@ -2,7 +2,7 @@
 %           (for unlabeled data)
 function [H,C] = calcHomography(varargin)
     close all;
-    pr = 0.95;
+    pr = 0.9999;
     C=[];
     if nargin==8
         
