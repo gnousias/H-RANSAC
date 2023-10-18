@@ -2,7 +2,7 @@
 ## General idea
 A generalized implementation of RANSAC (Random Sample Consensus), $H$-RANSAC, for homography estimation. In this implementation, two logical tests (one ad-hoc and one post-hoc) are used based on the geometry of random selected points on each iteration. The necessary iterations of the algorithm are calculated and homography matrix, $H$, is estimated.
 Code is provided both in Python and MATLAB. For more details, check the published [paper](https://doi.org/10.48550/arXiv.2310.04912).
-An example of the usage of H-RANSAC is available just by running the script mainExample.m in matlab_implementation file. 
+An example of the usage of H-RANSAC is available just by running the script mainExample.m in matlab_implementation file, after downloading the files from the particular folder. 
 
 ## Ad-hoc and post-hoc criteria
 In order to retrieve homography image transformations from sets of points without descriptive local feature vectors to allow for point pairing, we introduce two logical criteria. We propose a robust criterion that rejects implausible point selection before each iteration of RANSAC, based on the type of the quadrilaterals formed by random point pair selection (convex or concave and (non)-self-intersecting). To cover some practical applications we allow the points to be (optionally) labelled in two classes. Also, a similar post-hoc criterion rejects implausible homography transformations is included at the end of each iteration.
