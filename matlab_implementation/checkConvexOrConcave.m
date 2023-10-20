@@ -5,6 +5,9 @@
 % then the quadrilateral is concave and non intersected. Else if the
 % abs(sum(sign(c))) is equal 0, then the quadrilateral is convex and self-
 % intersected.
+% --------------------------------------------------------------------------
+% Author: Nousias G., 2023
+% --------------------------------------------------------------------------
 
 function [an,c]=checkConvexOrConcave(varargin)
 
